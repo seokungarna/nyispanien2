@@ -2,7 +2,7 @@ const postcssPresetEnv = require('postcss-preset-env')
 
 module.exports = {
   siteMetadata: {
-    title: 'Ny i Spanien',
+    title: 'Ny i Spanien.',
     siteUrl: 'https://www.nyispanien.se'
   },
   plugins: [
