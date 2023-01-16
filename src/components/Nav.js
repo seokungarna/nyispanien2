@@ -51,6 +51,7 @@ export class Navigation extends Component {
           <div className="Nav--Links">
             <NavLink to="/">Hem</NavLink>
             <NavLink to="/guider/">Guider</NavLink>
+            <NavLink to="/hus-och-hem/">Hus och hem</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"

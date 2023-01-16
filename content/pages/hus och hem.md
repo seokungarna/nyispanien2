@@ -1,6 +1,6 @@
 ---
 template: HomePage
-slug: hus och hem
+slug: hus-och-hem
 title: Guider och tips
 featuredImage: '../images/flag.jpg'
 offertknapp: 
