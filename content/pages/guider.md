@@ -14,7 +14,7 @@ meta:
 
 Här har vi samlat ihop våra erfarenheter från de olika besök vi gjort. Informationen som skrivits var dagsfärsk men de olika rutinerna kan ju komma at ändras och vad man behöver ha med sig på de olika besöken kan variera beroende på vem personen du träffar är. 
 
-##Empadronamiento (Padron)
+## Empadronamiento (Padron)
 
 Empadronamienton är när du registrerar dig i den kommun du bor i vilket man går till kommunhuset (Ayunatamiento) och gör. Detta betyder att kommunen får högre bidrag från Madrid och att du får t ex rösta i kommunval. 
 
@@ -22,7 +22,7 @@ För att registrera sig i kommunen behöver man fylla i en blankett som man får
 
 Som stor familj (5 personer eller fler) och boende i Spanien kan man få tillgång till kortet ”Familias numerosas” vilket ger rabatter på lite av varje. Detta är dock ett kort du behöver göra en separat ansökan för. 
 
-##NIE-nummer
+## NIE-nummer
 
 Det finns fler olika sätt man kan söka NIE-nummer på och av fler olika anledningar. Det går att söka på Spanska ambassaden i Sverige om man har bra anledning och rätt dokument, annars ansöker man på polisstationen där man bor antingen själv eller så går man dit med någon som man anlitat för ärendet. För att få NIE-nummer måste du antingen köpa bostad i Spanien, öppna ett företag, bli anställd, eller ha en annan väsentlig anledning till att man behöver numret som är ett identifieringsnummer. Man behöver även kunna bevisa med någon typ av dokument till vad man ska ha numret. 
 
