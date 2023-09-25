@@ -18,4 +18,4 @@ Vi har haft det här problemet i flera år och nu i år bestämde vi oss för at
 
 Mitt tips är använd torktumlaren när det verkligen behövs och häng ut tvätten annars, det är ju bara så otroligt fräscht att ta in nytvättat som hängt utomhus och torkat! 
 
-![alt text](/images/tvatt.jpg "Tvätt, Spain")
+![alt text](/images/tvatt.webp "Tvätt, Spain")

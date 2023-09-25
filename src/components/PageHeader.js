@@ -1,8 +1,8 @@
-import React from 'react'
+import React, { Fragment }  from 'react'
 import PropTypes from 'prop-types'
 import Image from './Image'
 import Content from './Content'
-import { Link } from 'gatsby'
+//import { Link } from 'gatsby'
 import './PageHeader.css'
 
 
@@ -13,6 +13,8 @@ const PageHeader = ({
   backgroundImage,
   large,
   offertknapp,
+  datum,
+  categories,
   className = ''
 }) => {
   if (large) className += ' PageHeader-large'
@@ -32,10 +34,34 @@ const PageHeader = ({
         {subtitle && (
           <Content className="PageHeader--Subtitle" src={subtitle} />
         )}
-      {offertknapp &&
-       <Link to="/offert">
-       <div className="Button">{offertknapp}</div>    
-      </Link>}
+        <div className="">
+          
+            {datum && (
+              <time
+                className="SinglePost--Meta--Date"
+                itemProp="dateCreated pubdate datePublished"
+                date={datum}
+              >
+                {datum}
+              </time>
+            )}
+            {categories && (
+              <Fragment>
+                <span> | </span>
+                {categories.map((cat, index) => (
+                  <span
+                    key={cat.category}
+                    className="SinglePost--Meta--Category"
+                  >
+                    {cat.category}
+                    {/* Add a comma on all but last category */}
+                    {index !== categories.length - 1 ? ',' : ''}
+                  </span>
+                ))}
+              </Fragment>
+            )}
+          </div>
+    
        
       </div>
     </div>
@@ -44,7 +70,9 @@ const PageHeader = ({
 
 PageHeader.propTypes = {
   title: PropTypes.string,
-  subtitle: PropTypes.string
+  subtitle: PropTypes.string,
+  // date: PropTypes.string,
+  // categories: PropTypes.array
 }
 
 export default PageHeader

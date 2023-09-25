@@ -2,30 +2,43 @@ import React, { Fragment } from 'react'
 import _get from 'lodash/get'
 import { Link, graphql } from 'gatsby'
 import { ChevronLeft } from 'react-feather'
-
+import PageHeader from '../components/PageHeader'
 import Content from '../components/Content'
 import Layout from '../components/Layout'
 import './SinglePost.css'
 
 export const SinglePostTemplate = ({
   title,
+  featuredImage,
   date,
   body,
   nextPostURL,
   prevPostURL,
   categories = []
 }) => (
-  <main>
+  <main className="Home">
+     <PageHeader
+      large
+      title={title}
+      backgroundImage={'../'+ featuredImage}
+      categories={categories}
+      datum={date}
+    />
+    
     <article
-      className="SinglePost section light"
+      className="section SinglePost--Content relative"
       itemScope
       itemType="http://schema.org/BlogPosting"
     >
-      <div className="container skinny">
-        <Link className="SinglePost--BackButton" to="/inspiration/">
-          <ChevronLeft /> TILLBAKA
+      {/* <div className="container"> */}
+      <Link 
+        
+        className="SinglePost--Pagination--Link prev"
+        
+        to="/stader-och-byar/">
+         ← TILLBAKA TILL STÄDER OCH BYAR
         </Link>
-        <div className="SinglePost--Content relative">
+        <div className="">
           <div className="SinglePost--Meta">
             {date && (
               <time
@@ -44,20 +57,20 @@ export const SinglePostTemplate = ({
                     key={cat.category}
                     className="SinglePost--Meta--Category"
                   >
-                    {/* {cat.category} */}
+                    {cat.category}
                     {/* Add a comma on all but last category */}
-                    {/* {index !== categories.length - 1 ? ',' : ''} */}
+                    {index !== categories.length - 1 ? ',' : ''}
                   </span>
                 ))}
               </Fragment>
             )}
           </div>
 
-          {title && (
+          {/* {title && (
             <h1 className="SinglePost--Title" itemProp="title">
               {title}
             </h1>
-          )}
+          )} */}
 
           <div className="SinglePost--InnerContent">
             <Content source={body} />
@@ -82,7 +95,7 @@ export const SinglePostTemplate = ({
             )}
           </div>
         </div>
-      </div>
+      {/* </div> */}
     </article>
   </main>
 )
@@ -122,6 +135,7 @@ export const pageQuery = graphql`
         title
         template
         subtitle
+        featuredImage
         date(formatString: "MMMM Do, YYYY")
         categories {
           category
