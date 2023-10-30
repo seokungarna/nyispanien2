@@ -1,14 +1,14 @@
 ---
 meta:
-  canonicalLink: 'https://xn--taklggarehelsingborg-ezb.nu'
-  description: 'Takläggare i Helsingborg med lång erfarenhet. Kontakta oss för gratis besiktning idag! Ring eller maila, eller använd vårat formulär.'
+  canonicalLink: 'https://www.nyispanien.se'
+  description: 'Tips och råd när du flyttat till Spanien.'
   noindex: false
-  title: 'Takläggare Helsingborg'
-featuredImage: ''
+  title: 'Ny i Spanien'
+featuredImage: '/images/flag.jpg'
 gallery:
-  - alt: ''
-    image: ''
-    title: ''
+  - alt: 'Spanska flaggor'
+    image: '/images/flag.jpg'
+    title: 'Spanska flaggor'
 ---
 
 <!-- Use this to force Gatsby to correctly determine optional images/file schema -->
