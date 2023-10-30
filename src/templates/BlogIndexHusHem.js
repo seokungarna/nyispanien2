@@ -125,11 +125,11 @@ const BlogIndex = ({ data: { page, posts, postCategories } }) => (
 export default BlogIndex
 
 export const pageQuery = graphql`
-  ## Query for BlogIndex data
+  ## Query for BlogIndexHusHem data
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query BlogIndex($id: String!) {
+  query BlogIndexHusHem($id: String!) {
     page: markdownRemark(id: { eq: $id }) {
       ...Meta
       html
@@ -146,7 +146,7 @@ export const pageQuery = graphql`
     }
 
     posts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "stader" } } }
+      filter: { fields: { contentType: { eq: "hus-och-hem" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {

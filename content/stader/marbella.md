@@ -4,7 +4,7 @@ title: Marbella
 status: Published
 date: '2023-05-31'
 categories:
-  - category: Stad
+  - category: stader
 featuredImage: '../images/marbella.jpg'
 excerpt: >-
   Välkommen till Marbella, Spanien! Marbella är en fantastisk plats att besöka med vackra stränder, fantastisk mat och en livlig atmosfär. Här är en nykomlingars guide för att hjälpa dig att utforska staden.
