@@ -1,12 +1,12 @@
 ---
-template: SinglePost
+template: SinglePostHusHem
 slug: hus-och-hem/something
 title: Tvätta och torka när det är vinter i Spanien
 status: Published
-date: '2023-05-31'
+date: '2023-01-12'
 categories:
   - category: hus-och-hem
-featuredImage: '../images/flag.jpg'
+featuredImage: '../images/tvatt.webp'
 excerpt: >-
   Att bo i Spanien och få sin tvätt torr är nästan hela året väldigt enkelt genom att bara hänga ut den och efter några timmar är den torr. Under vintern dock när det är rätt fuktigt ute och inte så varmt kan det bli problem. 
 meta:

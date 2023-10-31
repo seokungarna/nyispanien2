@@ -101,7 +101,7 @@ export const SinglePostTemplate = ({
 )
 
 // Export Default SinglePost for front-end
-const SinglePost = ({ data: { post, allPosts } }) => {
+const SinglePostGuider = ({ data: { post, allPosts } }) => {
   const thisEdge = allPosts.edges.find(edge => edge.node.id === post.id)
   return (
     <Layout
@@ -126,7 +126,7 @@ export const pageQuery = graphql`
   ## Use GraphiQL interface (http://localhost:8000/___graphql)
   ## $id is processed via gatsby-node.js
   ## query name must be unique to this file
-  query SinglePost($id: String!) {
+  query SinglePostGuider($id: String!) {
     post: markdownRemark(id: { eq: $id }) {
       ...Meta
       html
