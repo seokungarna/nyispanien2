@@ -35,8 +35,8 @@ export const SinglePostTemplate = ({
         
         className="SinglePost--Pagination--Link prev"
         
-        to="/stader-och-byar/">
-         ← TILLBAKA TILL STÄDER OCH BYAR
+        to="/guider/">
+         ← TILLBAKA TILL GUIDER
         </Link>
         <div className="">
           <div className="SinglePost--Meta">
@@ -119,7 +119,7 @@ const SinglePost = ({ data: { post, allPosts } }) => {
   )
 }
 
-export default SinglePost
+export default SinglePostGuider
 
 export const pageQuery = graphql`
   ## Query for SinglePost data
@@ -144,7 +144,7 @@ export const pageQuery = graphql`
     }
 
     allPosts: allMarkdownRemark(
-      filter: { fields: { contentType: { eq: "stader" } } }
+      filter: { fields: { contentType: { eq: "guider" } } }
       sort: { order: DESC, fields: [frontmatter___date] }
     ) {
       edges {
