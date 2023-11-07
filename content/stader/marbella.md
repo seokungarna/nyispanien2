@@ -45,6 +45,6 @@ Ta en utflykt till den pittoreska byn Mijas Pueblo eller besök det historiska R
 Marbella är känt för sitt pulserande nattliv. Det finns många nattklubbar och strandklubbar där du kan dansa och ha roligt hela natten lång.
 
 #### Klimat
-Marbella har ett behagligt medelhavsklimat med milda vintrar och varma somrar. Kom ihåg att packa solskyddsmedel och lätta kläder för att njuta av det härliga vädret.
+Marbella har ett behagligt medelhavsklimat med milda vintrar och varma somrar ett s k microklimat. Kom ihåg att packa solskyddsmedel och lätta kläder för att njuta av det härliga vädret.
 
 Hoppas att denna guide hjälper dig att utforska Marbella och få en underbar tid i denna vackra del av Spanien!
