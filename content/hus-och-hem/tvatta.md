@@ -14,7 +14,6 @@ meta:
   title: Tvätta och torka när det är vinter i Spanien
 ---
 
-# Tvätta och torka när det är vinter i Spanien
 
 Att bo i Spanien och få sin tvätt torr är nästan hela året väldigt enkelt genom att bara hänga ut den och efter några timmar är den torr. Under vintern dock när det är rätt fuktigt ute och inte så varmt kan det bli problem. Antingen går det inte att hänga ut tvätten alls eftersom det kan vara regn eller så hinner inte tvätten torka ute under dagen för det är inte tillräckligt med sol och värme och man måste ta in den på kvällen igen. Ett problem om man har den ute nattetid är att många eldar hemma när det är kallt och tvätten kommer morgonen efter att stinka av rök…. Tar man in tvätten får man in fukten och husen är redan med årstiden väldigt fuktiga vilket kan leda till kondens av fukt och mögel inne i huset/lägenheten. 
 
