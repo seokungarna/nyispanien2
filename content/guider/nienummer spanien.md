@@ -1,7 +1,7 @@
 ---
 template: SinglePostGuider
-slug: guider/nienummer
-title: NIE-nummer
+slug: guider/nienummer spanien
+title: NIE-nummer Spanien
 status: Published
 date: '2022-08-15'
 categories:
@@ -16,9 +16,8 @@ meta:
   title: NIE-nummer
 ---
 
-## NIE-nummer Spanien
 
-Ett NIE-nummer är ett identitetsnummer för utländska personer som vistas i Spanien. Det finns fler olika anledningar till att man behöver ett NIE-nummer i Spanien. Ett NIE-nummer ansöker man om på närmsta polisstation där man bor antingen själv eller så går man dit tillsammans med någon som man anlitat för ärendet. Anledningar till att du behöver ett NIE-nummer kan vara att du ska köpa en bostad i Spanien, öppna ett företag, bli anställd, eller ha en annan väsentlig anledning till att man behöver ha ett NIE-nummer. Man behöver även ha bevis, alltså någon typ av dokumentation till varför man ansöker om NIE-nummer. Om man ska köpa ett hus eller lägenhet kan det vara köpekontraktet. Har man fått en anställning tar man med sig anställningskontraktet. Öppnar man eget företag tar man med sig dessa papper så att man kan bevisa att man ska bo och jobba i Spanien. 
+NIE-nummer Spanien är ett identitetsnummer för utländska personer som vistas i Spanien. Det finns fler olika anledningar till att man behöver ett NIE-nummer i Spanien. Ett NIE-nummer ansöker man om på närmsta polisstation där man bor antingen själv eller så går man dit tillsammans med någon som man anlitat för ärendet. Anledningar till att du behöver ett NIE-nummer kan vara att du ska köpa en bostad i Spanien, öppna ett företag, bli anställd, eller ha en annan väsentlig anledning till att man behöver ha ett NIE-nummer. Man behöver även ha bevis, alltså någon typ av dokumentation till varför man ansöker om NIE-nummer. Om man ska köpa ett hus eller lägenhet kan det vara köpekontraktet. Har man fått en anställning tar man med sig anställningskontraktet. Öppnar man eget företag tar man med sig dessa papper så att man kan bevisa att man ska bo och jobba i Spanien. 
 
 När man ansöker om NIE-nummer i Spanien behöver man boka en tid för ett besök på en polisstation. Det besöket bokas normalt i den provins man bor t ex om man bor i Marbella väljer man provinsen Malaga och sedan under Oficina väljer man CNP Marbella. Tid för besöket bokar man [här](https://icp.administracionelectronica.gob.es/icpco/index.html)  
 

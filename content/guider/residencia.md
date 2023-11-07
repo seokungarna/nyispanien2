@@ -16,7 +16,6 @@ meta:
   title: Ansöka om residencia
 ---
 
-## Residencia
 
 För att söka Residencia i Spanien behöver man kunna visa upp en del dokumentation och det kan vara bra att veta vad man behöver och hur man går tillväga.
 

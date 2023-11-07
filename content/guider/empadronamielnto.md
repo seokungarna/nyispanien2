@@ -16,7 +16,6 @@ meta:
   title: Empadronamiento
 ---
 
-## Empadronamiento
 
 Empadronamienton är när du registrerar dig i den kommun du bor i vilket man går till kommunhuset (Ayuntamiento) och gör. Detta betyder att kommunen får högre bidrag från Madrid och att du får t ex rösta i kommunval. Det kan vara så att i den kommun du bor i behöver du först boka en tid på kommunens hemsida för ditt besök. 
 

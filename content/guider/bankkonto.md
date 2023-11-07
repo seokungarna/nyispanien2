@@ -16,7 +16,6 @@ meta:
   title: Bankkonto
 ---
 
-## Öppna bankkonto
 
 För att öppna upp ett bankkonto i Spanien går du in på en bank och ber att få öppna upp ett konto. Det du behöver ha med dig är NIE-nummer om du har annars fungerar det alldeles utmärkt med ditt pass. Om du skaffar ett NIE-nummer vid senare tillfälle uppskattar dom att man uppdaterar med det på banken. Man kan behöva visa upp sina senaste uppgifter ifrån 1-2 års deklarationer och/eller lönebesked det ses som ok även fast de är på svenska det är mest för att visa att du tjänar någon typ av pengar. Det brukar finnas lite olika typer av bankkonton Sabadell har t ex ett konto som ofta föreslås till utlänningar som inte är Recidensia där man måste sätta in 700 Euro varje månad för att slippa betala avgifter. Sabadell har dock andra konton som är mycket mer förmånliga. 
 
