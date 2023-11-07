@@ -18,13 +18,23 @@ meta:
 
 ## NIE-nummer Spanien
 
-Det finns fler olika sätt som man kan söka NIE-nummer Spanien på och av fler olika anledningar. Det går att ansöka på Spanska ambassaden i Sverige om man har bra anledning och rätt dokumentation, annars ansöker man på polisstationen där man bor antingen själv eller så går man dit tillsammans med någon som man anlitat för ärendet. För att få NIE-nummer måste du antingen köpa bostad i Spanien, öppna ett företag, bli anställd, eller ha en annan väsentlig anledning till att man behöver numret som är ett identifieringsnummer. Man behöver även kunna bevisa med någon typ av dokument till vad man ska ha numret. Om man ska köpa ett hus eller lägenhet kan man t ex visa upp avtalet på det. Har man blivit anställd någonstans tar man med sig anställningskontraktet. Öppnar man eget företag tar man med sig dessa papper så att man kan bevisa att man ska bo och jobba i Spanien. 
+Ett NIE-nummer är ett identitetsnummer för utländska personer som vistas i Spanien. Det finns fler olika anledningar till att man behöver ett NIE-nummer i Spanien. Ett NIE-nummer ansöker man om på närmsta polisstation där man bor antingen själv eller så går man dit tillsammans med någon som man anlitat för ärendet. Anledningar till att du behöver ett NIE-nummer kan vara att du ska köpa en bostad i Spanien, öppna ett företag, bli anställd, eller ha en annan väsentlig anledning till att man behöver ha ett NIE-nummer. Man behöver även ha bevis, alltså någon typ av dokumentation till varför man ansöker om NIE-nummer. Om man ska köpa ett hus eller lägenhet kan det vara köpekontraktet. Har man fått en anställning tar man med sig anställningskontraktet. Öppnar man eget företag tar man med sig dessa papper så att man kan bevisa att man ska bo och jobba i Spanien. 
 
-När man ansöker om NIE-nummer i Spanien behöver man boka en tid för ett besök på en polisstation. Det besöket bokas normalt i den provins man är i t ex om man bor i Marbella väljer man provinsen Malaga och sedan under Oficina väljer man CNP Marbella. Tid för besöket bokar man [här](https://icp.administracionelectronica.gob.es/icpco/index.html)  
+När man ansöker om NIE-nummer i Spanien behöver man boka en tid för ett besök på en polisstation. Det besöket bokas normalt i den provins man bor t ex om man bor i Marbella väljer man provinsen Malaga och sedan under Oficina väljer man CNP Marbella. Tid för besöket bokar man [här](https://icp.administracionelectronica.gob.es/icpco/index.html)  
 
-När man ska ansöka om numret behöver man också fylla i en blankett som heter EX-15 och du hittar [här](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf)
+Under Provincias Disponibles väljer du den provins du bor i, t ex Malaga. 
+På nästa sida väljer man närmsta polisstation under Oficinas och sedan på Trámites de Policiá Nacional väljer du POLIICIA-CERTIFICADOS Y ASIGNACION NIE och gå vidare. 
+Där efter kommer du få upp lediga datum och tider. 
 
-Du behöver sedan ha med dig ditt original pass, passkopia, Empadronamiento och eventuellt hyreskontrakt eller papper på det boende du äger. Tänk på att det är viktigt att skriva i en vettig och korrekt anledning till varför du behöver ha ett NIE-nummer.
+När du kommer till ditt besök behöver du ha dokumenten EX-15 och Modelo 790 ifyllda. 
+
+Forumläret EX-15 är själva ansökningsformuläret och här finns: [EX-15](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf)
+
+Formuläret Modelo 790 fyller man i med betalningsinformation, alltså hur du vill betala ditt NIE-nummer på banken. Detta formulär fyller man i online på datorn och sedan kan man skriva ut det och ta med sig det till banken. Under Forma de Pago väljer man om pengarna ska dras direkt ifrån ditt bankkonto eller betalas kontant. Om man vill att pengarna dras från kontot ska man pricka för E.C. Adeudo en cuenta och där efter fylla i sitt IBAN nummer. Betalar man kontant prickar man istället för En efectivo men kom ihåg att ta med pengar. Blanketten finns här: [Modelo790](https://sede.policia.gob.es:38089/Tasa790_012/ImpresoRellenar)
+
+Det du behöver ha med dig är ditt original pass, passkopia, Empadronamiento och skriftligt dokument till varför du behöver ha ett NIE-nummer.
+
+Lycka till!
 
 
 
