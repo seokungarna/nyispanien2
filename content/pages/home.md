@@ -18,7 +18,7 @@ Att starta upp ett liv i Spanien innebär at man behöver kontakta någon typ av
 -	Flertalet kopior på pass för alla familjemedlemmar
 -	Kopia på empadronamiento(padron) om man har det
 -	Personbevis för barnen brukar på flertalet ställen krävas spansk översättning av auktoriserad översättare
--	Personbevis, om du är utskriven från Sverige kan det behövas ett utdrag på engelska från Skatteverket som bevisar att du är utskriven (t ex vid omregistrering av bil)
+-	Personbevis, om du är utskriven från Sverige kan det behövas ett utdrag på engelska från Skatteverket som bevisar att du är utskriven (t ex vid omregistrering av bil). Det går att ta ut olika typer av personbevis på Skatteverkets hemsida. Där finns flera typer av personbevis som Familjebevis, Utdrag om folkbokföringsuppgifter på engelska eller svenska, Utdrag om folkbokföringsuppgifter 120 med alla relationer på engelska eller svenska. För mer information se Skatteverkets sida [här](https://skatteverket.se/privat/folkbokforing/bestallpersonbevis/vanligaonskemalfranutlandskamyndigheter.4.3810a01c150939e893f22054.html)
 -	Anställningsbevis om du är anställd även det kan behöva vara översatt av auktoriserad översättare om du har t ex en svensk arbetsgivare
 -	NIE-nummer, kopior på det är bra att ha och gå aldrig runt med originalet på dig
 -	Hyreskontrakt på bostad om du hyr annars lagfart på det du äger
