@@ -17,7 +17,7 @@ meta:
 ---
 
 
-När man har residencia i Spanien gäller det svenska körkortet så länge som giltighetstiden (som normalt är 10 år) säger men när den går ut måste man besöka DGT för att ansöka om ett nytt körkort som då kommer att bli ett spanskt.
+När man har residencia i Spanien gäller det svenska körkortet så länge som giltighetstiden säger (som normalt är 10 år) men när den går ut måste man besöka DGT för att förnya körkortet som då kommer att bli ett spanskt.
 
 Det man behöver ha med sig till DGT är:
 - ett medicinskt intyg ifrån Drivers Medical Center (detta intyg får endast vara 3 månader gammalt) som visar att du ser och hör bra. Kostar cirka 50 euro.
@@ -36,7 +36,7 @@ Det är svårt att få en tid på många utav dessa kontor så man kan behöva f
 permisos" 
 
 När man lyckats boka sin tid kommer man få upp ett meddelande med en Justificante Cita Previa och där finns information om vad du behöver ta med dig och även en länk som man behöver gå in på för att nå dokumentet 
-som ska fyllas i för körkortsbytet. Där fyller du i dina personliga uppgifter, adress och bockar i rutan "Canje" om du ska byta ut ditt körkort. Detta dokument måste skrivas ut, skrivas under och tas med. Du behöver inte betala något i förväg, det går alldeles utmärkt att betala med kort på DGT.
+som ska fyllas i för körkortsbytet. Där fyller du i dina personliga uppgifter, adress och bockar i rutan "Canje" om du ska byta ut ditt körkort. Detta dokument måste skrivas ut, skrivas under och tas med. Du behöver inte betala något i förväg, det går alldeles utmärkt att betala med kort på DGT för att förnya körkortet.
 
 Väl inne på DGT lämnar du fram de papper som efterfrågas och betalar cirka 28 euro för ett körkortsbyte. Eftersom dom tar ditt körkort får du ett tillfälligt körkort på papper, hur långt det är kan bero på 
 när ditt körkort går ut och hur lång tid dom tror att utskicket av nytt körkort kommer ta. Detta tillfälliga körkort ska du ha med dig i bilen tillsammans med en giltig legitimation, t ex pass. Man kan välja 
