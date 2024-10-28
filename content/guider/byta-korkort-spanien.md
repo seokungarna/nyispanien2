@@ -30,7 +30,7 @@ Det man behöver ha med sig till DGT är:
 
 Det första man behöver göra är att gå in på DGT: sida här https://sede.dgt.gob.es/es/permisos-de-conducir/canjes-de-permisos/canjes-de-permisos-extranjeros/canjes-inscripcion-renovacion-y-sustitucion-de-permisos-de-la-ue-y-eee och längst ner på sidan kan man välja
 "Consultar citas de canjes". Välj vart du vill boka din tid i rutan som kommer upp t ex Malaga och sedan behöver du fylla i nienummer, email och välja vilket land du är ifrån. Spanska trafikverket kommer då att
-göra en verifiering mot Sverige gällande ditt tillstånd, när det är klart kommer du få ett mail med en verifieringskod som man använder när man ska boka sin tid. I detta mail finns också en länk till sidan där du bokar tid. 
+göra en verifiering mot Sverige gällande ditt tillstånd, när det är klart kommer du få ett mail med en verifieringskod som man använder när man ska boka sin tid. I detta mail finns också en länk till sidan där du bokar tid. Är du över 65 år behöver du inte boka en tid utan kan åka direkt till din närmaste DGT och ta en nummerlapp.
 
 Det är svårt att få en tid på många utav dessa kontor så man kan behöva försöka ett par dagar olika tider. Man kommer att behöva välja en kategori för sin bokning och på de flesta kontor ska man välja "Canje de
 permisos" 
@@ -50,4 +50,6 @@ Just för att boka en tid för att byta körkort i Malaga står det en observati
 DGT:s kontor i Malaga ligger två avfarter efter flygplatsen om du kommer ifrån Marbella och Estepona hållet, det är enkelt att ta sig dit men var ute i god tid för det är dåligt med parkeringar i området. När man 
 kommer in i byggnaden behöver man registrera att man är där och ta en nummerlapp och sedan får man vänta på sin tur.
 
+###Byta körkort Sevilla
+Bor man i Sevilla så finns en DGT där, var ute i god tid eftersom det kan vara ont om parkeringsplatser. Boka din tid först på DGT:s sida. 
 
