@@ -26,7 +26,7 @@ Det man behöver ha med sig till DGT är:
 - ifylld blankett från DGT gällande körkortsbytet.
 - foto för körkort, det går att ta i automat eller i fotoaffär.
 - du kommer att behöva lämna in ditt svenska körkort
-- ta även med residencia kort och passet för att visa upp
+- ta även med residencia kort och passet för att visa upp 
 
 Det första man behöver göra är att gå in på DGT: sida här https://sede.dgt.gob.es/es/permisos-de-conducir/canjes-de-permisos/canjes-de-permisos-extranjeros/canjes-inscripcion-renovacion-y-sustitucion-de-permisos-de-la-ue-y-eee och längst ner på sidan kan man välja
 "Consultar citas de canjes". Välj vart du vill boka din tid i rutan som kommer upp t ex Malaga och sedan behöver du fylla i nienummer, email och välja vilket land du är ifrån. Spanska trafikverket kommer då att
