@@ -1,6 +1,6 @@
 ---
 template: SinglePostHusHem
-slug: hus-och-hem/something
+slug: hus-och-hem/torr-tvatt
 title: Tvätta och torka när det är vinter i Spanien
 status: Published
 date: '2023-01-12'
