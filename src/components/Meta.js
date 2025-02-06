@@ -26,7 +26,7 @@ export default class Meta extends Component {
       canonicalLink,
       siteTitle,
       siteDescription,
-      googleTrackingId = false
+      googleTrackingId = 'G-KL9GD4F333'
       // overwrite { title, description } if in fields or fields.meta
     } = this.props
 
