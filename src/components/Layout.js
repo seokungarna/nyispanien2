@@ -4,7 +4,6 @@ import { StaticQuery, graphql } from 'gatsby'
 import Meta from './Meta'
 import Nav from './Nav'
 import Footer from './Footer'
-// import GithubCorner from './GithubCorner'
 
 import 'modern-normalize/modern-normalize.css'
 import './globalStyles.css'
@@ -62,7 +61,7 @@ export default ({ children, meta, title }) => {
             </Helmet>
 
             <Meta
-              googleTrackingId={googleTrackingId}
+              googleTrackingId={'G-KL9GD4F333'}
               absoluteImageUrl={
                 socialMediaCard &&
                 socialMediaCard.image &&
