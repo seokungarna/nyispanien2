@@ -17,12 +17,12 @@ meta:
 ---
 
 
-För att söka Residencia i Spanien behöver man kunna visa upp en del dokumentation och det kan vara bra att veta vad man behöver och hur man går tillväga.
+Residencia är ett uppehållstillstånd och det du ska ansöka om ifall du planerar att stanna längre än 90 dagar i Spanien. Om du inte redan har NIE-nummer och söker Residencia får du ett NIE-nummer i och med den ansöökna. För att söka om Residencia i Spanien behöver man kunna visa upp en del dokumentation och det kan vara bra att veta vad man behöver och hur man går tillväga.
 
-Nummer ett att göra är att boka en tid hos Polisen detta gör man på webbsidan: https://sede.administracionespublicas.gob.es/icpplus/
-Efter att man valt provins ska man göra ett nytt val, vi har valt ”Policias Certificado UE” vilket har gått alldeles utmärkt. Det som är huvudsaken och viktigt är att ALLA som ska ansöka om residencia har en tid bokad, det gäller alltså även barn. 
+Nummer ett är att boka en tid hos Polisen detta gör man på webbsidan: <a href="https://sede.administracionespublicas.gob.es/icpplus/" target="_blank" ref="nofollow">här</a>
+Efter att man valt provins ska man göra ett nytt val, när jag ansökte valde jag ”Policias Certificado UE” vilket gick utmärkt. När vi talade med polisen om detta meddelade dom att det viktigaste är att ALLA i familjen som ska ansöka om residencia har en tid bokad, det gäller alltså även barn. 
 
-Vad man sedan behöver hos Polisen kan vara lite olika men viktigt att ta med är:
+Vad man sedan behöver hos Polisen kan vara lite olika beroende på situation men viktigt att ta med är:
 -	Passkopior
 -	Kopia på NIE-nummer om man redan har ett sådant
 -	Kopia på Empadronamiento (får ej vara äldre än tre månader)
@@ -31,7 +31,8 @@ Vad man sedan behöver hos Polisen kan vara lite olika men viktigt att ta med ä
 -	Personbevis på barnen vilket oftast ska vara översatt på Spanska
 -	Om man har barn ska man även kunna visa upp bankutdrag med lön och/eller skatt
 
-Man måste sedan gå och betala 12 Euro per person på banken för att få residencia. 
+Man måste sedan gå och betala 12 Euro per person på banken för att få residencia. Detta pris är om du kommer från något utav länderan i Europeiska Unionen. Du kan läsa mer om de olika avgifterna 
+<a href="https://sede.policia.gob.es/portalCiudadano/_es/tramites_extranjeria_tasas.php#" target="_blank" ref="nofollow">här</a>. 
 
-Om man känner sig osäker på att gå till polisen och göra detta själv kan man anlita någon som följer med och hjälper till.
+Om man känner sig osäker på att gå till polisen och göra detta själv kan man anlita någon som följer med och hjälper till t ex en gestor.
 
