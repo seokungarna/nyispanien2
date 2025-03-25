@@ -28,7 +28,8 @@ Det man behöver ha med sig till DGT är:
 - du kommer att behöva lämna in ditt svenska körkort
 - ta även med residencia kort och passet för att visa upp 
 
-Det första man behöver göra är att gå in på DGT: sida här https://sede.dgt.gob.es/es/permisos-de-conducir/canjes-de-permisos/canjes-de-permisos-extranjeros/canjes-inscripcion-renovacion-y-sustitucion-de-permisos-de-la-ue-y-eee och längst ner på sidan kan man välja
+Det första man behöver göra är att gå in på DGT:s sida  
+<a href="https://sede.dgt.gob.es/es/permisos-de-conducir/canjes-de-permisos/canjes-de-permisos-extranjeros/canjes-inscripcion-renovacion-y-sustitucion-de-permisos-de-la-ue-y-eee" target="_blank" ref="nofollow">här</a> och längst ner på sidan kan man välja
 "Consultar citas de canjes". Välj vart du vill boka din tid i rutan som kommer upp t ex Malaga och sedan behöver du fylla i nienummer, email och välja vilket land du är ifrån. Spanska trafikverket kommer då att
 göra en verifiering mot Sverige gällande ditt tillstånd, när det är klart kommer du få ett mail med en verifieringskod som man använder när man ska boka sin tid. I detta mail finns också en länk till sidan där du bokar tid. Är du över 65 år behöver du inte boka en tid utan kan åka direkt till din närmaste DGT och ta en nummerlapp.
 
