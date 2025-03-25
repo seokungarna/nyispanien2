@@ -27,9 +27,9 @@ Där efter kommer du få upp lediga datum och tider.
 
 När du kommer till ditt besök behöver du ha dokumenten EX-15 och Modelo 790 ifyllda. 
 
-Forumläret EX-15 är själva ansökningsformuläret och här finns: [EX-15](https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf)
+Forumläret EX-15 är själva ansökningsformuläret och här finns: <a href="https://www.inclusion.gob.es/documents/410169/2156469/15-Formulario_NIE_y_certificados.pdf" target="_blank" ref="nofollow">EX-15</a>
 
-Formuläret Modelo 790 fyller man i med betalningsinformation, alltså hur du vill betala ditt NIE-nummer på banken. Detta formulär fyller man i online på datorn och sedan kan man skriva ut det och ta med sig det till banken. Under Forma de Pago väljer man om pengarna ska dras direkt ifrån ditt bankkonto eller betalas kontant. Om man vill att pengarna dras från kontot ska man pricka för E.C. Adeudo en cuenta och där efter fylla i sitt IBAN nummer. Betalar man kontant prickar man istället för En efectivo men kom ihåg att ta med pengar. Blanketten finns här: [Modelo790](https://sede.policia.gob.es:38089/Tasa790_012/ImpresoRellenar)
+Formuläret Modelo 790 fyller man i med betalningsinformation, alltså hur du vill betala ditt NIE-nummer på banken. Detta formulär fyller man i online på datorn och sedan kan man skriva ut det och ta med sig det till banken. Under Forma de Pago väljer man om pengarna ska dras direkt ifrån ditt bankkonto eller betalas kontant. Om man vill att pengarna dras från kontot ska man pricka för E.C. Adeudo en cuenta och där efter fylla i sitt IBAN nummer. Betalar man kontant prickar man istället för En efectivo men kom ihåg att ta med pengar. Blanketten finns här: <a href="https://sede.policia.gob.es:38089/Tasa790_012/ImpresoRellenar" target="_blank" ref="nofollow">Modelo790</a>
 
 Det du behöver ha med dig är ditt original pass, passkopia, Empadronamiento och skriftligt dokument till varför du behöver ha ett NIE-nummer.
 
