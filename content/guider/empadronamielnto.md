@@ -21,7 +21,7 @@ Empadronamienton är när du registrerar dig i den kommun du bor i vilket man g�
 
 För att registrera sig i kommunen behöver man fylla i en blankett som man får på kommunhuset, ha passkopior på alla familjemedlemmar, översatta personbevis för alla (till Spanska), bevis på ditt boende (om du hyr är det bra att ha med hyreskontrakt samt en elräkning).
 
-Ett empadronamiento är viktigt att ha för det behöver du visa upp på olika instanser för att visa var din adress är. Ska du t ex söka skola för dina barn måste du ha ett emadronamiento som inte är mer än ett halvår gammalt. Man behöver alltså även gå till Ayuntamiento även för att få utskrivet ett nytt även om man inte flyttat bara för att få en ny datumstämpel så att man ser att det är den adressen som gäller. 
+Ett empadronamiento är viktigt att ha för det behöver du visa upp på olika instanser för att visa var din adress är. Ska du t ex söka skola för dina barn måste du ha ett empadronamiento som inte är mer än ett halvår gammalt. Man behöver alltså även ibland gå till Ayuntamiento för att få utskrivet ett nytt empadronamiento även om man inte flyttat bara för att få en ny datumstämpel så att man ser att det är den adressen som gäller. 
  
 
 
