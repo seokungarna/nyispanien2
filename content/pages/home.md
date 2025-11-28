@@ -13,7 +13,7 @@ meta:
 
 # Ny i Spanien
 
-Att starta upp ett liv i Spanien innebär at man behöver kontakta någon typ av myndighet av flera olika anledningar vilket innebär att man har med sig en hel del information om sig själv. Det är en hel del viktiga papper som är bra att ha med sig i Spanien och att ha kopior på. Här har vi räknat upp de papper vi anser att man kan behöva:
+När man startar upp ett liv i Spanien innebär det att man behöver kontakta någon typ av myndighet av flera olika anledningar och då behöver man ha med sig en hel del information om sig själv. Det är flera viktiga papper som är bra att ha med sig i Spanien och att ha kopior på. Här har vi räknat upp de papper vi anser att man kan behöva:
 
 -	Flertalet kopior på pass för alla familjemedlemmar
 -	Kopia på empadronamiento(padron) om man har det
