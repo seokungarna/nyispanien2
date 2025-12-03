@@ -19,15 +19,15 @@ Nu är det hög tid att baka lussebullar om man ska göra det. Jag har tidigare 
 
 Ingredienser för cirka 30-35 bullar:
 
-50 g jäst – heter Levadura på spanska och finns i kyldisken på Mercadonan (gula förpackningar) eller Carrefour (silverfärgad förpackning)
-100 g rumstempererat smör – jag använder nästan bara Mercadonans saltade smör. Jag tycker inte Carrefours har varit lika bra att baka med men det är en smaksak.
-5 dl fingervarm mjölk – färsk mjölk från kyldisken i vilken affär som helst. 
-1 g saffran (2 paket om man vill ha lite mer smak ta 3 påsar saffran) –jag köper alltid malen saffran till bakning från någon svensk butik. Saffran som finns i spanska mataffärer är mycket klenare i smaken och passar inte att baka med. 
-1 ½ dl socker – vilket strösocker som helst.
-1 ägg
-½ tsk salt
-Cirka 17 dl vetemjöl – harina de trigo fuerza från Mercadonan eller harina de trigo todo uso brukar jag välja. 
-Russin
+- 50 g jäst – heter Levadura på spanska och finns i kyldisken på Mercadonan (gula förpackningar) eller Carrefour (silverfärgad förpackning)
+- 100 g rumstempererat smör – jag använder nästan bara Mercadonans saltade smör. Jag tycker inte Carrefours har varit lika bra att baka med men det är en smaksak.
+- 5 dl fingervarm mjölk – färsk mjölk från kyldisken i vilken affär som helst. 
+- 1 g saffran (2 paket om man vill ha lite mer smak ta 3 påsar saffran) –jag köper alltid malen saffran till bakning från någon svensk butik. Saffran som finns i spanska mataffärer är mycket klenare i smaken och passar inte att baka med. 
+- 1 ½ dl socker – vilket strösocker som helst.
+- 1 ägg
+- ½ tsk salt
+- Cirka 17 dl vetemjöl – harina de trigo fuerza från Mercadonan eller harina de trigo todo uso brukar jag välja. 
+- Russin
 
 Börja med att smula i jästen i en bunke. Häll därefter i mjöken och saffran och rör tills jästen löst sig. Tillsätt smör, socker, ägg, salt och lite vetemjöl i taget. Blanda ingredienserna så att det blir en smidig deg. Därefter låter du degen jäsa i 45 minuter. 
 
