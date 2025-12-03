@@ -35,4 +35,4 @@ Om man inte vill att russinen ska vara så torra och hårda är ett tips att lä
 När degen jäst klart dela upp den i 30-35 bitar och börja göra lussekatter. Lägg dom på plåtar, pensla dom med uppvispat ägg och sätt dit russin. Låt jäsa i 30 minuter till. Sätt ugnen på 250 grader. Grädda bullarna mitt i ugnen 7-12 minuter. 
 
 
-![alt text](/images/lussebullar.webp "Lussebullar")
+![alt text](/images/lussebullar.webp "Lussebullar, Spanien")
