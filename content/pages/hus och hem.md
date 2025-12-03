@@ -2,7 +2,7 @@
 template: BlogIndexHusHem
 slug: hus-och-hem
 title: Hus och Hem tips
-featuredImage: '../images/palmer och hus.webp'
+featuredImage: '../images/palmerochhus.webp'
 offertknapp: 
 subtitle: Tips och råd om du har ett hem i Spanien
 meta:
