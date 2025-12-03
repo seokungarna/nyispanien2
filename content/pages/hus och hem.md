@@ -10,4 +10,4 @@ meta:
 
 ---
 
-Olika tips och tricks från hemmet..
+Tips, råd och för hus och hem.

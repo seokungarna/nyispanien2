@@ -12,4 +12,4 @@ meta:
 
 # Guider och tips
 
-Här har vi samlat ihop våra erfarenheter från de olika besök vi gjort. Informationen som skrivits var dagsfärsk men de olika rutinerna kan ju komma at ändras och vad man behöver ha med sig på de olika besöken kan variera beroende på vem personen du träffar är.
+Här har vi samlat ihop våra erfarenheter från de olika besök vi gjort. Informationen som skrivits var dagsfärsk men de olika rutinerna kan ju komma att ändras och vad man behöver ha med sig på de olika besöken kan variera beroende på vem personen du träffar är.
